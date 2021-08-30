@@ -1,6 +1,8 @@
 # `ant`
 `ant` is yet another text editor, written in Rust and C. It aims to be small, fast, and efficient, while maintaining important features.
 
+The main repository for `ant` has been moved to https://github.com/ZapSoftwareGroup/Ant
+
 ## Why Another Text Editor?
 This is mainly a learning project, but there are some good reasons to use `ant`:
 
